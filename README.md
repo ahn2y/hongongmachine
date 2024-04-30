@@ -4,7 +4,7 @@
 
 ### 생선 분류 문제
 30cm 이상이면 도미
-'''python:01-3
+```python:01-3
 if fish_lenght >= 30:
   print("도미")
-'''
+```

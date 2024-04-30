@@ -7,3 +7,4 @@
 '''python:01-3
 if fish_lenght >= 30:
   print("도미")
+'''
